@@ -19,30 +19,14 @@ Every day I increase my knowledge in JavaScript, HTML, CSS, React and working ha
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
-</div>
-
-<div id="badges">
-  <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="javascript Badge"/>
-  <img src="https://img.shields.io/badge/-React-green" alt="react Badge"/>
-  <img src="https://img.shields.io/badge/-HTML-orange" alt="html Badge"/>
-  <img src="https://img.shields.io/badge/-CSS-blue" alt="css Badge"/>
-  <img src="https://img.shields.io/badge/-SCSS-ff69b4" alt="scss Badge"/>
-  <img src="https://img.shields.io/badge/-REST%20API-brightgreen" alt="rest_api Badge"/>
-  <img src="https://img.shields.io/badge/-Webpack-blue" alt="webpack Badge"/>
-  <img src="https://img.shields.io/badge/-GIT-orange" alt="git Badge"/>
-  <img src="https://img.shields.io/badge/-OOP-yellow" alt="oop Badge"/>
-  <img src="https://img.shields.io/badge/-SQL-red" alt="sql Badge"/>
-  <img src="https://img.shields.io/badge/-NPM-green" alt="npm Badge"/>
-  <img src="https://img.shields.io/badge/-Jest-blueviolet" alt="jest Badge"/>
-  <img src="https://img.shields.io/badge/-Python-ff69b4" alt="sql Badge"/>
-  <img src="https://img.shields.io/badge/-Django-green" alt="sql Badge"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-plain.svg" title="babel" alt="babel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 </div>
 <br>
 
