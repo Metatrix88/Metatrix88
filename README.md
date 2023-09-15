@@ -31,10 +31,20 @@ Every day I increase my knowledge in JavaScript, HTML, CSS, React and working ha
 </div>
 <br>
 
-### My Contacts:
+### 🤝 My Contacts:
 
 <a href="https://www.linkedin.com/in/andrey-davidovich-%E2%9C%8C-718b30248/"><img src="https://img.shields.io/badge/-Linkedin-blue" alt="linkedin Badge"/></a>
 <a href="https://t.me/AndreyDavidovich88"><img src="https://img.shields.io/badge/-Telegram-blue" alt="telegram Badge"/></a>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=metatrix88&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=metatrix88&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Metatrix88/badges/large)
+
+### My first projects:
+
+TripHouse personal project on pure HTML, SCSS - https://metatrix88.github.io/if-html/
