@@ -30,3 +30,11 @@ Every day I increase my knowledge in JavaScript, HTML, CSS, React and working ha
   <img src="https://img.shields.io/badge/-Django-green" alt="sql Badge"/>
 </div>
 <br>
+
+### My Contacts:
+
+<a href="https://www.linkedin.com/in/andrey-davidovich-%E2%9C%8C-718b30248/"><img src="https://img.shields.io/badge/-Linkedin-blue" alt="linkedin Badge"/></a>
+<a href="https://t.me/AndreyDavidovich88"><img src="https://img.shields.io/badge/-Telegram-blue" alt="telegram Badge"/></a>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=metatrix88&theme=dark&background=000000)](https://git.io/streak-stats)
