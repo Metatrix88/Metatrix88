@@ -46,6 +46,6 @@ Every day I increase my knowledge in JavaScript, HTML, CSS, React and working ha
 
 ### My first projects:
 
-TripHouse personal project on pure HTML, SCSS - https://metatrix88.github.io/if-html/
-get-colors personal project on pure HTML, SCSS, JS -  https://metatrix88.github.io/get-colors/
+* TripHouse personal project on pure HTML, SCSS - https://metatrix88.github.io/if-html/
+* get-colors personal project on pure HTML, SCSS, JS -  https://metatrix88.github.io/get-colors/
 
