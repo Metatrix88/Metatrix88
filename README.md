@@ -51,4 +51,5 @@ Every day I increase my knowledge in JavaScript, HTML, CSS, React and working ha
 * TripHouse personal project on pure HTML, SCSS, JS - https://metatrix88.github.io/if-js/
 * cars-list personal project on pure HTML, SCSS, JS - https://metatrix88.github.io/cars-list/index.html
 * get-colors personal project on pure HTML, SCSS, JS -  https://metatrix88.github.io/get-colors/
+* foxtok personal project on pure React -  https://metatrix88.github.io/foxtok/
 
