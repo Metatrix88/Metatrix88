@@ -46,9 +46,7 @@ Every day I increase my knowledge in JavaScript, HTML, CSS, React and working ha
 
 ### My first projects:
 
-* TripHouse personal project on pure HTML, SCSS - https://metatrix88.github.io/if-html/
-* TripHouse personal project on pure HTML, SCSS, JS - https://metatrix88.github.io/if-js/
-* TripHouse personal project on pure React - https://metatrix88.github.io/if-react/
+* TripHouse personal project on pure React/Redux, Swiper, React-datepicker, css in js (jss lib) - https://metatrix88.github.io/if-react/
 * foxtok personal project on pure React -  https://metatrix88.github.io/foxtok/
 * GameStudio personal project on pure HTML, SCSS - https://metatrix88.github.io/GameStudio/#
 * cars-list personal project on pure HTML, SCSS, JS - https://metatrix88.github.io/cars-list/index.html
